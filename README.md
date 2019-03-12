@@ -2,6 +2,8 @@
 
 This is a store of my class-work for [BIMM143 Winter 2019](https://bioboot.github.io/bimm143_W19/) at UC San Diego.
 
+![](https://bioboot.github.io/bimm143_W19/assets/img/logo.png)
+
 ## Content
 - Class05: [R fundamentals](https://github.com/bioboot/tmp_test/blob/master/class05/class05.md)
 - Class06: [R graphics]()
